@@ -1,0 +1,86 @@
+<monitors version="1">
+
+
+  
+  <configuration>
+    
+    <clone>no</clone>
+    
+      <output name="GPU-0.DP-0">
+          <vendor>PJD</vendor>
+          <product>0x0ff1</product>
+          <serial>0x00000000</serial>
+          <width>1920</width>
+          <height>1200</height>
+          <rate>60</rate>
+          <x>1128</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="GPU-0.DP-1">
+          <vendor>PJD</vendor>
+          <product>0x0ff1</product>
+          <serial>0x00000000</serial>
+          <width>1920</width>
+          <height>1200</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      
+      <output name="GPU-1.DP-0">
+          <vendor>PJD</vendor>
+          <product>0x0604</product>
+          <serial>0x00000000</serial>
+          <width>1920</width>
+          <height>1200</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="GPU-1.DP-1">
+          <vendor>PJD</vendor>
+          <product>0x0604</product>
+          <serial>0x00000000</serial>
+          <width>1920</width>
+          <height>1200</height>
+          <rate>60</rate>
+          <x>1128</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      
+       <output name="GPU-0.DVI-I-1">
+          <vendor>DEL</vendor>
+          <product>0xa07a</product>
+          <serial>0x3052324c</serial>
+          <width>1920</width>
+          <height>1200</height>
+          <rate>60</rate>
+          <x>3048</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+       </output>
+       
+  </configuration>
+
+
+  
+</monitors>
